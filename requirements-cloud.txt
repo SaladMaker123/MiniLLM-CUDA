@@ -1,0 +1,6 @@
+
+# MiniLLM-CUDA cloud Python dependencies
+# GPU PyTorch will be installed separately by setup_cloud.sh
+
+transformers==5.20.2
+numpy==2.2.6
